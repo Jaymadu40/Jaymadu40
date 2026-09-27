@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I'm <strong>Jay Madhu</strong>, a cybersecurity professional, analyst, technology educator, and tech mentor building practical security expertise through continuous learning and hands-on work.
+  I'm <strong>Jay Madu</strong>, a cybersecurity professional, analyst, technology educator, and tech mentor building practical security expertise through continuous learning and hands-on work.
 </p>
 
 <p align="center">
