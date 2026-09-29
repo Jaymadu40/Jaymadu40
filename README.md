@@ -122,22 +122,21 @@ I believe technology education and practical cybersecurity knowledge can help pe
 ---
 
 ## Let's Connect
-
 <p align="center">
-  <a href="[github.com](https://github.com/Jaymadu40)">
-    <img src="[img.shields.io](https://img.shields.io/badge/GitHub-Jaymadu40-181717?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub" />
+  <a href="https://github.com/Jaymadu40" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Jaymadu40-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="[img.shields.io](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
-    <img src="[img.shields.io](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" />
+  <a href="mailto:jay.madu40@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="YOUR_TWITTER_URL">
-    <img src="[img.shields.io](https://img.shields.io/badge/Twitter-Follow-1D9BF0?style=for-the-badge&logo=x&logoColor=white)" alt="Twitter" />
+  <a href="https://jaymadu.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" />
   </a>
-  <a href="YOUR_PERSONAL_WEBSITE_URL">
-    <img src="[img.shields.io](https://img.shields.io/badge/Website-Visit-39FF14?style=for-the-badge&logo=googlechrome&logoColor=000000)" alt="Personal website" />
+</p>
+
   </a>
 </p>
 
