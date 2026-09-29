@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="banner.jpg" alt="Jay Madu Cybersecurity Professional" width="100%">
+<img width="1983" height="793" alt="IMG-20260827-WA0023(1)" src="https://github.com/user-attachments/assets/6021e473-4590-4288-9d11-1a9fd37a851d" />
+
 </p>
 
 </p>
