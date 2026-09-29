@@ -100,8 +100,8 @@ The following categories will showcase my practical work as my cybersecurity por
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=JMadu14&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9)" alt="JMadhu14 GitHub contribution statistics" />
-  <img height="165" src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=JMadu14&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9)" alt="JMadhu14 most-used languages" />
+  <img height="165" src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=JMadu14&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9)" alt="JMadu14 GitHub contribution statistics" />
+  <img height="165" src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=JMadu14&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9)" alt="JMadu14 most-used languages" />
 </p>
 
 <p align="center">
