@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[raw.githubusercontent.com](https://raw.githubusercontent.com/Jaymadu40/Jaymadu40/main/IMG-20260827-WA0023(1).jpg)" alt="Jay Madhu - Cybersecurity Professional" width="100%" />
+  <img src="[raw.githubusercontent.com](https://raw.githubusercontent.com/Jaymadu40/Jaymadu40/main/IMG-20260827-WA0023(1).jpg)" alt="Jay Madu - Cybersecurity Professional" width="100%" />
 </p>
 
 <p align="center">
@@ -100,12 +100,12 @@ The following categories will showcase my practical work as my cybersecurity por
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=JMadhu14&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9)" alt="JMadhu14 GitHub contribution statistics" />
-  <img height="165" src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=JMadhu14&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9)" alt="JMadhu14 most-used languages" />
+  <img height="165" src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=JMadu14&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9)" alt="JMadhu14 GitHub contribution statistics" />
+  <img height="165" src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=JMadu14&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9)" alt="JMadhu14 most-used languages" />
 </p>
 
 <p align="center">
-  <img src="[streak-stats.demolab.com](https://streak-stats.demolab.com?user=JMadhu14&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&dates=8B949E)" alt="JMadhu14 GitHub contribution streak" />
+  <img src="[streak-stats.demolab.com](https://streak-stats.demolab.com?user=JMadu14&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&dates=8B949E)" alt="JMadu14 GitHub contribution streak" />
 </p>
 
 ---
