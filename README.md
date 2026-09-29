@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="[raw.githubusercontent.com](https://raw.githubusercontent.com/Jaymadu40/Jaymadu40/main/IMG-20260827-WA0023(1).jpg)" alt="Jay Madu - Cybersecurity Professional" width="100%" />
+  <img src="banner.jpg" alt="Jay Madu Cybersecurity Professional" width="100%">
+</p>
+
 </p>
 
 <p align="center">
