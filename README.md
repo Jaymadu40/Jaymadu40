@@ -1,13 +1,13 @@
 <img width="1983" height="793" alt="IMG-20260827-WA0023(1)" src="https://github.com/user-attachments/assets/6021e473-4590-4288-9d11-1a9fd37a851d" />
 
 </p>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D4&center=true&vcenter=true&width=600&lines=Cybersecurity+Professional;Threat-Aware.+Risk-Focused.+Impact-Driven.;Building+Secure+Digital+Infrastructure" alt="Typing SVG" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="[git.io](https://git.io/typing-svg)">
-    <img src="[readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3200&pause=1200&color=39FF14&center=true&vCenter=true&width=800&lines=Cybersecurity+Professional;Threat-Aware+%7C+Risk-Focused+%7C+Impact-Driven)" alt="Cybersecurity Professional - Threat-Aware, Risk-Focused, Impact-Driven" />
-  </a>
+
 </p>
 
 <p align="center">
